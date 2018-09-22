@@ -1,5 +1,5 @@
-# Naslovnica
-veleprodaja tekstila
-kurac
-pička
-dinamo
+                                                # Naslovnica
+                                                    veleprodaja tekstila
+                                                      asortiman
+                                                          galerija
+                                                              kontakt
