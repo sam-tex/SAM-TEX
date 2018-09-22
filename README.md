@@ -1,7 +1,7 @@
-Naslovnica
-O nama
-Asortiman
-Galerija
-Kontakt
+#Naslovnica
+##O nama
+##Asortiman
+##Galerija
+##Kontakt
 
                                                    
