@@ -1,5 +1,5 @@
                                                 # Naslovnica
-                                                    veleprodaja tekstila
-                                                      asortiman
-                                                          galerija
-                                                              kontakt
+                                                    #veleprodaja tekstila
+                                                      #asortiman
+                                                          #galerija
+                                                              #kontakt
