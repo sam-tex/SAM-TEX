@@ -1,11 +1,11 @@
-#Naslovnica
+# Naslovnica
 
-##O nama
+## O nama
 
-##Asortiman
+## Asortiman
 
-##Galerija
+## Galerija
 
-##Kontakt
+## Kontakt
 
                                                    
