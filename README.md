@@ -1,4 +1,7 @@
-#Naslovnica
-                                                    #veleprodaja tekstila
-                                                    #galerija
-#kontakt
+Naslovnica
+O nama
+Asortiman
+Galerija
+Kontakt
+
+                                                   
